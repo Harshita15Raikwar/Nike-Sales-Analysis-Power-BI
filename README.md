@@ -6,10 +6,10 @@ This project analyzes Nike’s sales data to uncover trends, top-performing regi
 Power BI (Data Visualization, DAX)
 Excel (Data Cleaning, Pivot Tables, VLOOKUP)
 # Key Insights & Impact
-✔ Analyzed 50,000+ sales records to identify top-performing products and regions.
-✔ Cleaned and transformed raw data in Excel for better visualization.
-✔ Developed interactive dashboards in Power BI to track sales performance.
-✔ Reduced reporting time by 40%, improving decision-making for stakeholders.
+- Analyzed 50,000+ sales records to identify top-performing products and regions.
+- Cleaned and transformed raw data in Excel for better visualization.
+- Developed interactive dashboards in Power BI to track sales performance.
+- Reduced reporting time by 40%, improving decision-making for stakeholders.
 
 # Dashboard Features
 Sales Performance: Breakdown of revenue across different regions.
