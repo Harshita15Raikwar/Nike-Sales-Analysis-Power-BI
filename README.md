@@ -12,10 +12,10 @@ Excel (Data Cleaning, Pivot Tables, VLOOKUP)
 - Reduced reporting time by 40%, improving decision-making for stakeholders.
 
 # Dashboard Features
-Sales Performance: Breakdown of revenue across different regions.
-Customer Trends: Identified peak sales periods and seasonal demand.
-Top-Selling Products: Analyzed which products contributed the most to revenue.
+- Sales Performance: Breakdown of revenue across different regions.
+- Customer Trends: Identified peak sales periods and seasonal demand.
+- Top-Selling Products: Analyzed which products contributed the most to revenue.
 # Files Included
-Nike Sales Dataset (.xlsx) – Cleaned and formatted sales data.
-Power BI Dashboard (.pbix) – Interactive dashboard with key insights.
-Screenshots (.png/.jpg) – Previews of the final dashboard.
+- Nike Sales Dataset (.xlsx) – Cleaned and formatted sales data.
+- Power BI Dashboard (.pbix) – Interactive dashboard with key insights.
+- Screenshots (.png/.jpg) – Previews of the final dashboard.
